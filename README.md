@@ -11,4 +11,4 @@ and `docs/ops-handbook.md` for the review outcome logging procedure.
 | Gate | Status |
 |---|---|
 | Deployment checklist | 3 items open |
-| Review outcome log (companion repo, cycle 2026-10-24-r1) | MISSING — log not yet created |
+| Review outcome log (companion repo, cycle 2026-10-24-r2) | MISSING — log not yet created |

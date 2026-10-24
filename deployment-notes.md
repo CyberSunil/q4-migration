@@ -8,7 +8,7 @@
 ## Review tracking
 Outcome logging for deployment review cycles follows the ops handbook:
 see `docs/ops-handbook.md` §4. The current cycle's outcome log
-(`.audit/review-2026-10-24-r1.md` in the companion repository
+(`.audit/review-2026-10-24-r2.md` in the companion repository
 `sunilbugcrowd/repo2-codex`) has not been created yet; per the handbook,
 a review cycle is complete only when its outcome log exists on the
 companion repository's default branch.
